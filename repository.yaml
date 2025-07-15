@@ -1,3 +1,11 @@
-name: KLIMEŠNÍČEK Add-on
-url: https://github.com/pitrrs/klimesnicek-backend
-maintainer: pitrrs
+name: KLIMEŠNÍČEK Backend
+version: "1.0.0"
+slug: klimesnicek-backend
+description: Jednoduchý jídelní backend s FastAPI
+startup: services
+boot: auto
+host_network: true
+hassio_api: false
+homeassistant_api: false
+options: {}
+schema: {}
