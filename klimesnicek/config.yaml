@@ -1,6 +1,6 @@
 name: KLIMEŠNÍČEK Backend
 version: "1.0.0"
-slug: klimesnicek-backend
+slug: klimesnicek
 description: Jednoduchý jídelní backend s FastAPI a SQLite
 startup: services
 boot: auto
